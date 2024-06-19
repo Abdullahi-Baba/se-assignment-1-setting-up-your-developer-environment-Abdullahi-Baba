@@ -52,3 +52,60 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+  DOCUMENTAION OF MY ANSWER
+1.	OPERATING SYSTEM
+   My machine came with a pre installed windows 11 which allowed me to move to the other steps.
+2.	IDE INSTALLATION
+•	I downloaded the installer from The official website of Vs studio.
+•	Run the installer as an Administrator
+•	VSCodeUserSetup.exe
+•	A prompt up message will apear seeking for permission i click Yes
+•	The Installer will check for the required drivers before moving to the next step.
+•	By default, Visual Studio will be installed in the default directory the local directory. 
+•	If you wish to change this,  you can specify a different location.
+•	once the installation is complete, click on the "Launch" button.
+•	VS STUDIO will open and I selected my theme.
+
+3.	VERSION CONTROL SYSTEM INTSTALLATION
+•	 I opened this link (https://gitforwindows.org/) website.
+•	I Clicked the "Download" button to download the installer.
+•	Run the downloaded .exe file as an administrator.
+•	I Follow the installation prompts. The default settings are ok for me.
+•	I made  sure to select the option to "Use Git from the Windows Command Prompt" to ensure Git is added to your system PATH.
+•	To verify my installation I Open Command and Type the following command “git –version” and press Enter. You should see the Git version installed.
+4.	NECESSARY PROGRAMING LANGUAGES
+PYTHON
+•	I opened this ](https://www.python.org/downloads/).
+•	I Clicked the "Download" button to download the installer.
+•	I Located the downloaded installer file (python-<version>-amd64.exe) in my downloads folder and run it.
+•	I Follow the installation prompts. The default settings are ok for me.
+•	I made  sure to select the option to " Add Python to PATH
+•	To verify my installation I Open Command and Type the following command “git –version” and press Enter. Python version 3.12.4
+5.	PACKAGE MANAGERS
+Cant recall this process
+
+6.	MY SQL INSTALLATION PROCESS
+•	I opened the website (https://dev.mysql.com/downloads/installer/)
+•	I chose the second link which was around 300mb
+•	I run the exe file as an administrator 
+•	I was given option and according to our instructor we are to choose My sql Server only 
+•	I selected Standalone MySQL Server
+•	I selected my config type as Development computer and Used the Default port 3306
+•	I  Use Strong Password Authentication and created a root password 
+•	I configured MYSQL as windows service recommended
+•	And my logging options as they are no changes
+•	I apply the configurations and executed the installation 
+•	And completed the installation
+7.	SKIPPED
+
+8.	PLUGINS AND EXTENTIONS ON MY VS STUDIO
+
+•	FLUTTER
+•	DART
+•	PYTHON INTELISSENCE
+•	
+
+   
+			
+
